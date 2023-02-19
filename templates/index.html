@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+
+        <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; border: 1px solid #ccc; padding: 20px; max-width: 600px; margin: 0 auto;">
+            <p>
+            Introducing my project - a password manager that keeps your passwords safe and secure. With this password manager, you can securely store your passwords, all protected by a master password.
+            </p>
+            <p>
+            The registration process ensures that the password is strong and meets the necessary requirements, such as a minimum length of 8 characters, one uppercase letter, one lowercase letter, one digit, and one symbol. Once you have registered, you can add passwords to the vault, which are then encrypted using a high-security encryption algorithm that derives the encryption key from the hashed master password and salt.
+            </p>
+            <p>
+            You can view your password vault, where you can check the passwords you have saved, and also delete or edit them. If you make changes to a password, the password manager will encrypt the new password and send it to the database.
+            </p>
+            <p>
+            In addition, you can change your master password anytime, ensuring that you keep your account safe and secure. This password manager is an easy-to-use and reliable solution that makes managing your passwords effortless and worry-free.
+            </p>
+            <p style="margin-bottom: 30px;">
+            Check out the source code on <a href="https://github.com/yourusername/yourproject" style="color: blue; text-decoration: underline;">GitHub</a> and start managing your passwords with ease and peace of mind.
+            </p>
+            <div style="text-align: center; margin: 20px;">
+                <a href="/add-password" style="padding: 10px 20px; background-color: blue; color: white; margin-right: 30px; border-radius: 5px; text-decoration: none;">Add Password</a>
+                <a href="/passwords-vault" style="padding: 10px 20px; background-color: green; color: white; margin-left: 30px; border-radius: 5px; text-decoration: none;">Passwords Vault</a>
+            </div>
+        </div>
+
+{% endblock %}
