@@ -2,11 +2,10 @@ import os
 import hashlib
 import base64
 import re
-import secrets
 import string
 
 from cs50 import SQL
-from flask import Flask, flash, redirect, render_template, request, session, url_for
+from flask import Flask, flash, redirect, render_template, request, session
 from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.security import check_password_hash, generate_password_hash
@@ -340,3 +339,7 @@ def edit_password(password_id):
     flash("Password updated!")
     return redirect("/passwords-vault")
 
+
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000)
