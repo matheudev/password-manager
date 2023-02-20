@@ -25,7 +25,7 @@ You can change the master password anytime you want. When you do, the password m
 
 Check out this <a href="https://youtu.be/w19dV6dxTq0" target="_blank">video</a> where I explain the project.
 
-You can also try the live demo <a href="http://matheudev.pythonanywhere.com/" target="_blank">here</a>.
+You can also try the live demo [here](http://matheudev.pythonanywhere.com/){:target="_blank"}.
 
 ## About CS50
 
