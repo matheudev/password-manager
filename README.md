@@ -23,7 +23,7 @@ You can change the master password anytime you want. When you do, the password m
 
 ## Demo
 
-Check out this [video](https://youtu.be/w19dV6dxTq0) where I explain the project.
+Check out this [video](https://youtu.be/glCj3vRRAys) where I explain the project.
 
 You can also try the live demo [here](http://matheudev.pythonanywhere.com).
 
