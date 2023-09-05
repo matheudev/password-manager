@@ -70,13 +70,3 @@ Thank you for checking out my final project for CS50. If you have any questions 
 Check out this [video](https://youtu.be/glCj3vRRAys) where I explain the project.
 
 You can also try the live demo [here](http://matheudev.pythonanywhere.com).
-
-## About CS50
-
-CS50 is a popular introductory computer science course offered by Harvard University. The course is designed to teach students the fundamentals of computer science and programming, covering topics such as algorithms, data structures, web development, and more.
-
-The course is taught by David J. Malan and his team of educators and is offered online for free through edX. CS50 has become popular for its engaging lectures, challenging problem sets, and supportive online community.
-
-This project was developed as the final project for the CS50 course. The course provided a strong foundation in computer science and programming concepts that were necessary to build this password manager with encryption.
-
-Thank you for your interest in this project!
