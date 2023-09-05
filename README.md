@@ -65,8 +65,6 @@ Lastly, I chose to use Flask and SQLite to develop the application, as they are 
 
 Thank you for checking out my final project for CS50. If you have any questions or feedback, feel free to reach out to me.
 
-## Links
+## Demo
 
-Check out this [video](https://youtu.be/glCj3vRRAys) where I explain the project.
-
-You can also try the live demo [here](http://matheudev.pythonanywhere.com).
+You try the live demo [here](https://anihub-django.vercel.app/).
