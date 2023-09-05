@@ -1,6 +1,6 @@
 # Password Manager with Encryption
 
-This is a final project for CS50, an easy-to-use password manager with encryption for secure password storage. The password manager allows users to register an account, log in, and store their passwords securely in a password vault. The passwords are encrypted using a high-security encryption algorithm that derives the encryption key from the hashed master password and salt, ensuring that even if someone gains access to the password vault, they won't be able to read the passwords without the master password.
+This is an easy-to-use password manager with encryption for secure password storage. The password manager allows users to register an account, log in, and store their passwords securely in a password vault. The passwords are encrypted using a high-security encryption algorithm that derives the encryption key from the hashed master password and salt, ensuring that even if someone gains access to the password vault, they won't be able to read the passwords without the master password.
 
 ## Features
 
